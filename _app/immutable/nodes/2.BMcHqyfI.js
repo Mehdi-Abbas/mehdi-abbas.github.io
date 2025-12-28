@@ -1,0 +1,1 @@
+import{f as r,a as e}from"../chunks/DoAh6JAG.js";import"../chunks/WDWrXTHR.js";var a=r('<h1 class="text-3xl font-bold underline text-red-400">Hello world! 3</h1>');function p(o){var t=a();e(o,t)}export{p as component};
