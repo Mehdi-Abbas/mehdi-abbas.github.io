@@ -8,6 +8,6 @@ export default defineConfig({
     port: 5173,
     open: true,
     strictPort: true,
-    host: '192.168.4.104',
+    host: '192.168.4.106',
   },
 });
